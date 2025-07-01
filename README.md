@@ -19,6 +19,8 @@ The repository is organized into folders based on topics and problem solved:
 -   Browse the folders for organized code by topic.
 -   Each file is named according to the problem or concept.
 
+---
+
 ## Progress
 
 -   **Day 1:** Repository initialized. Let the journey begin! Array and Basics problems solved.
